@@ -1,0 +1,22 @@
+Toplam kullanılan renk sayısı: 3
+Köşe ve renk eşleşmeleri:
+köşe = 0, renk = 0
+köşe = 16, renk = 1
+köşe = 1, renk = 0
+köşe = 2, renk = 2
+köşe = 6, renk = 1
+köşe = 7, renk = 1
+köşe = 8, renk = 1
+köşe = 11, renk = 0
+köşe = 17, renk = 1
+köşe = 3, renk = 0
+köşe = 14, renk = 1
+köşe = 4, renk = 0
+köşe = 13, renk = 1
+köşe = 5, renk = 2
+köşe = 18, renk = 0
+köşe = 9, renk = 0
+köşe = 12, renk = 1
+köşe = 10, renk = 0
+köşe = 15, renk = 0
+köşe = 19, renk = 0
